@@ -1,2 +1,2 @@
 # Conway's *Game of Life* with a Convolutional Neural Network (CNN)
-See this [Jupyter notebook implementation](Conway%27s%20Game%20of%20Life%20with%20CNN.ipynb), using Python 3.5 with NumPy and Keras.
+See this [Jupyter notebook implementation](Conway%27s%20Game%20of%20Life%20with%20CNN.ipynb), using Python 3.5 with NumPy and Keras. Note that GitHub's Notebook Viewer doesn't render the SVG images nor process the LaTeX code correctly.
